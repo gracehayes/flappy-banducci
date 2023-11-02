@@ -35,12 +35,12 @@ const Map = () => {
   ];
 
   const yCoords = [
-    { height: "200px" },
-    { height: "400px" },
+    { height: "250px" },
+    { height: "350px" },
     { height: "300px" },
     { height: "200px" },
-    { height: "400px" },
-    { height: "200px" },
+    { height: "300px" },
+    { height: "150px" },
     { height: "300px" },
     { height: "400px" },
   ];
